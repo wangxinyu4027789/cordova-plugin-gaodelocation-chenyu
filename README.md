@@ -1,5 +1,4 @@
-### 
-forked from waliu/cordova-plugin-gaodelocation-chenyu
+[forked from waliu/cordova-plugin-gaodelocation-chenyu](https://github.com/waliu/cordova-plugin-gaodelocation-chenyu)
  
 ### 高德地图定位Android,iOS采用gps定位
 本插件利用高德地图提供的定位功能进行Android版手机定位。
