@@ -4,7 +4,7 @@
   "description": "高德地图定位sdk",
   "repository": {
     "type": "git",
-    "url": "https://github.com/waliu/cordova-plugin-gaodelocation-chenyu.git"
+    "url": "https://github.com/wangxinyu4027789/cordova-plugin-gaodelocation-chenyu.git"
   },
   "cordova": {
     "id": "cordova-plugin-gaodelocation-chenyu",
