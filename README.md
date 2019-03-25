@@ -1,4 +1,6 @@
 [forked from waliu/cordova-plugin-gaodelocation-chenyu](https://github.com/waliu/cordova-plugin-gaodelocation-chenyu)
+
+### 修改android插件中部分参数设置
  
 ### 高德地图定位Android,iOS采用gps定位
 本插件利用高德地图提供的定位功能进行Android版手机定位。
@@ -14,7 +16,7 @@ cordova-android >= 7.0.0
 #### 2.安装插件
 
 ```
-cordova plugin add cordova-plugin-gaodelocation-chenyu --variable  ANDROID_API_KEY=your android key --variable  IOS_API_KEY=your ios key
+cordova plugin add https://github.com/wangxinyu4027789/cordova-plugin-gaodelocation-chenyu.git --variable  ANDROID_API_KEY=your android key --variable  IOS_API_KEY=your ios key
 npm install --save @ionic-native/gao-de-location
 ```
 
