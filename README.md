@@ -16,7 +16,7 @@ cordova-android >= 7.0.0
 #### 2.安装插件
 
 ```
-cordova plugin add https://github.com/wangxinyu4027789/cordova-plugin-gaodelocation-chenyu.git --variable  ANDROID_API_KEY=your android key --variable  IOS_API_KEY=your ios key
+ionic cordova plugin add https://github.com/wangxinyu4027789/cordova-plugin-gaodelocation-chenyu.git --variable  ANDROID_API_KEY=your android key --variable  IOS_API_KEY=your ios key
 npm install --save @ionic-native/gao-de-location
 ```
 
